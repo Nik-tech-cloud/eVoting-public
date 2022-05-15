@@ -1,0 +1,1 @@
+INSERT INTO `DRZAVLJANI` (`EMSO`, `IME`, `PRIIMEK`, `KRAJ`, `GESLO`, `SOGLASJE`) VALUES ('9999999999999', 'ime', 'priimek', 'lj', 'pass', '1');
